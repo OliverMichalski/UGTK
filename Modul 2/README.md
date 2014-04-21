@@ -3,7 +3,7 @@
 
 <b>Training Kit für den Einsatz in User Groups</b>
 
-Hrsg. von: Windows Azure Community Deutschland <br>
+Hrsg. von: Azure Community Deutschland <br>
 Berlin 2013
 
 Comming Soon
